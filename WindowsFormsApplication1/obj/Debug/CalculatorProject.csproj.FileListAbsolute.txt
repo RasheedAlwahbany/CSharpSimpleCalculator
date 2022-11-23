@@ -1,0 +1,12 @@
+C:\Users\ANDSoft\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ANDSoft\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ANDSoft\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ANDSoft\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalculatorProject.csprojResolveAssemblyReference.cache
+C:\Users\ANDSoft\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.calculator.resources
+C:\Users\ANDSoft\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ANDSoft\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalculatorProject.csproj.GenerateResource.Cache
+C:\Users\ANDSoft\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ANDSoft\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ANDSoft\Documents\Visual Studio 2015\Projects\asd\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ANDSoft\Documents\Visual Studio 2015\Projects\asd\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ANDSoft\Documents\Visual Studio 2015\Projects\asd\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
